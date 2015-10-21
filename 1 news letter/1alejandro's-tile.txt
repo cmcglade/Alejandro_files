@@ -1,0 +1,7 @@
+<body>colour gray #696969 font= vendana
+<wrapper table bgcolor=#FFFFFF
+Links www.redcross.ca
+Logo table bgcolor=#FF0000
+logo img= recross_logo.png
+Photo illustration=alejandroredcross.jpeg
+photo content=redcross_photo.jpg

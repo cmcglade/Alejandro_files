@@ -1,0 +1,28 @@
+body {
+	color: #8B0000;
+	background-color: #FFFFFF;
+	font-family: Arial, Verdana;
+	font-size: 10;
+    text-align: left;
+
+}
+img{
+	width:700px;
+	height:300px;
+	border: 1px solid #0000ff;
+
+}
+.a{
+	color: #000000;
+	font-family: Georgia;
+	font-size: 12;
+}
+#b {
+	 font-style:italic;
+	 text-align:right;
+}
+.div {
+	background-color: #000000;
+	color: #FFFFFF;
+
+}

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<htm lang=“en”>
+<head>
+<meta charset=“ulf-8”>
+<title>Devtool class</title>
+</head>
+<body>
+<p>I am in google
+</p>
+</body>
+<html>
